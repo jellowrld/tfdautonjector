@@ -7,7 +7,7 @@
 
 A precompiled Windows executable is available in the [Releases](https://github.com/jellowrld/tfdautonjector/releases/tag/1.0) section for easy use — no Python installation required.
 
-Download the latest `.zip` file, run the '.exe' in it directly, and enjoy the same functionality as the Python script.
+Download the latest '.zip' file, run the '.exe' in it directly, and enjoy the same functionality as the Python script.
 
 ---
 
