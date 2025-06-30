@@ -1,5 +1,5 @@
 # Jell's TFD Njector
-...
+
 ![tfd](https://github.com/user-attachments/assets/f6b93e53-6042-45bc-962b-12c9b58802bd)
 
 
